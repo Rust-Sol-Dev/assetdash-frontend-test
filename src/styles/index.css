@@ -1,0 +1,10 @@
+@font-face {
+  font-family: "Proxima Nova";
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(../assets/fonts/Proxima-Nova-Font.otf) format("opentype");
+}
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
